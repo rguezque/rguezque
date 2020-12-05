@@ -2,7 +2,7 @@
 
 Soy Luis.
 
-Actualmente creando y compartiendo cosas que podrian ser útiles a otros.
+En mi tiempo libre creando cosas que podrian ser útiles a otros.
 
 ---
 
