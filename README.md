@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hola! 👋
 
-🔭 Creando y compartiendo cosas que podrian ser útiles a otros.
+Soy Luis.
+
+Actualmente creando y compartiendo cosas que podrian ser útiles a otros.
+---
+
+¿Estas interesado en crear un perfil Github como este? Mira [aquí](https://www.maxbits.net/posts/put-a-readme-on-your-github-profile/)!
 <!--
 **rguezque/rguezque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
