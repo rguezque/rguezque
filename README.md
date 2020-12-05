@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+🔭 Creando y compartiendo cosas que podrian ser útiles a otros.
 <!--
 **rguezque/rguezque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
