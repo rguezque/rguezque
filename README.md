@@ -2,7 +2,7 @@
 
 Soy Luis.
 
-En mi tiempo libre creando cosas que podrian ser útiles a otros.
+Solo compartiendo pequeñas cosas.
 
 ---
 
