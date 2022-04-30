@@ -2,7 +2,7 @@
 
 Soy Luis Rodríguez.
 
-Desarrollador Web Jr, en proceso de aprendizaje con **Next.js**. Experiencia previa en **PHP**, MySQL, HTML, CSS, Javascript, Git, MySQL. He ejercido la docencia como profesor en dos universidades y tambi&eacute;n he estado en atención a clientes y ventas. Aunque estuve alejado de la programación un tiempo, aprendo con rapidez nuevos conocimientos.
+Desarrollador Web Jr, en proceso de aprendizaje con **Next.js**. Experiencia previa en **PHP**, MySQL, HTML, CSS, Javascript, Git, MySQL. He ejercido la docencia como profesor en dos universidades y tambi&eacute;n he estado en atención a clientes y ventas. Aprendo con rapidez nuevos conocimientos.
 
 ---
 
