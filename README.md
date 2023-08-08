@@ -1,12 +1,10 @@
 ### Hola! 👋
 
-Soy Luis Rodríguez.
+Soy Luis Rodríguez
 
-Desarrollador Web Jr, conocimientos en **Next.js**. Experiencia previa en **PHP**, MySQL, HTML, CSS, Javascript, Git, MySQL. He ejercido la docencia como profesor en dos universidades y tambi&eacute;n he estado en atención a clientes y ventas. Aprendo con rapidez nuevos conocimientos.
+Desarrollador Web Jr, conocimientos en **Next.js**. Experiencia en **PHP**, MySQL, HTML, CSS, Javascript. Actualmente aprendiendo Python. He ejercido la docencia como profesor en dos universidades y tambi&eacute;n he estado en atención a clientes y ventas. Aprendo con rapidez nuevos conocimientos.
 
 ---
-
-¿Estas interesado en crear un perfil Github como este? Mira [aquí](https://www.maxbits.net/posts/put-a-readme-on-your-github-profile/)!
 <!--
 **rguezque/rguezque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
