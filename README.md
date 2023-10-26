@@ -2,7 +2,7 @@
 
 Soy Luis Rodríguez
 
-Desarrollador Web Jr, conocimientos en **Next.js**. Experiencia en **PHP**, MySQL, HTML, CSS, Javascript. Actualmente aprendiendo Python. He ejercido la docencia como profesor en dos universidades y tambi&eacute;n he estado en atención a clientes y ventas. Aprendo con rapidez nuevos conocimientos.
+Desarrollador Web Jr. Experiencia en **PHP**, MySQL, HTML, CSS, Javascript. Actualmente aprendiendo Python. He ejercido la docencia como profesor en dos universidades y tambi&eacute;n he estado en atención a clientes y ventas. Aprendo con rapidez nuevos conocimientos.
 
 ---
 <!--
